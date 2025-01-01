@@ -1,0 +1,58 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Spam Super Blocker 1.0.5\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: Askas Jeremy <example@domain.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0.5\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.0\n"
+
+#: spam-super-blocker.php:20
+msgid "Spam Super Blocker"
+msgstr ""
+
+#: spam-super-blocker.php:21
+msgid "A simple plugin that allows you to manage spam comments collaboratively with ease."
+msgstr ""
+
+#: includes/settings-page.php:40
+msgid "Auto Block Keywords for Spam"
+msgstr ""
+
+#: includes/settings-page.php:41
+msgid "Automatically add keywords of spam comments to the blocked list."
+msgstr ""
+
+#: includes/settings-page.php:44
+msgid "Automatically Empty Trash"
+msgstr ""
+
+#: includes/settings-page.php:45
+msgid "Empty Trash folder automatically."
+msgstr ""
+
+#: includes/settings-page.php:50
+msgid "When comments in Trash reach:"
+msgstr ""
+
+#: includes/settings-page.php:55
+msgid "Automatically Empty Spam"
+msgstr ""
+
+#: includes/settings-page.php:56
+msgid "Empty Spam folder automatically."
+msgstr ""
+
+#: includes/settings-page.php:61
+msgid "When comments in Spam reach:"
+msgstr ""
+
+#: includes/settings-page.php:66
+msgid "Add Known Spam Keywords to Blocked List"
+msgstr ""
+
+#: includes/settings-page.php:67
+msgid "Load New"
+msgstr ""
