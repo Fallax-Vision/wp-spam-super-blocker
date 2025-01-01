@@ -35,32 +35,35 @@ Spam Super Blocker (SSP) is a FREE and Open-Source plugin that empowers WordPres
 * Initial release of the plugin.
 * The GitHub repo of the plugin goes live on: https://github.com/Fallax-Vision/wp-spam-super-blocker
 * Added features for bulk spam marking, auto keyword blocking, and customizable settings.
-* Added possibility to fetch known common spam keywords from the remote public list and automatically add them to the `Disallowed Comment Keys` in the "**Discussion**" section.
+* Added the possibility to fetch known common spam keywords from the remote public list and automatically add them to the `Disallowed Comment Keys` in the "**Discussion**" section.
 
 ## Frequently Asked Questions
-= What happens to disallowed keywords when I deactivate the plugin? =
+1. What happens to disallowed keywords when I deactivate the plugin? =
 The disallowed keywords list remains intact after deactivation.
-
-= Can I manually edit the disallowed keywords list? =
+2. Can I manually edit the disallowed keywords list? =
 Yes, you can edit the "Disallowed Comment Keys" list from the WordPress Discussion settings.
 
 > More Q&A can be found here: https://mediafri.com/wp/plugins/spam_super_blocker/faqs.php
 
 ## Screenshots
 1. `Actions on Comments Page`: Mark comments as spam and block user's name, email address, and comment URL for future comments.
-2. `Actions & Stats`: Add all pending comments to Spam, Empty Spam, Empty Trash, Fetch and Add Known Spam Keywords to "Disallowed Comment Keywords".
+   ![image](https://github.com/user-attachments/assets/ecdb0e02-e15e-4fec-8da6-b71017c6e646)
+2. `Actions & Stats`: Add all pending comments to Spam, Empty Spam, Empty Trash, Fetch, and Add Known Spam Keywords to "Disallowed Comment Keywords".
 - `Bulk Actions`: Mark multiple comments as spam directly from the Comments page.
-- `View Stats`: All Comments, My Comments, Pending Comments, Approved Comments, Spam Comments, Trash Comments, Blocked keywords on this website, Allowed keywords on this website, All keywords on remote endpoint, New keywords from remote endpoint.
+- `View Stats`: All Comments, My Comments, Pending Comments, Approved Comments, Spam Comments, Trash Comments, Blocked keywords on this website, Allowed keywords on this website, All keywords on the remote endpoint, New keywords from the remote endpoint.
 - `Check for New Spam Keywords` from the remote public list.
+   ![image](https://github.com/user-attachments/assets/3b775655-4a64-4535-841d-7406a504f072)
 3. `Options` : Choose what to add to block list, Auto Block Keywords for Spam, Automatically Empty Trash, Automatically Empty Spam, Allowed Words, etc.
-4. `Contributors` : List of current active contributors.
+  ![image](https://github.com/user-attachments/assets/0f2c5cb7-d364-45f7-a65c-03786fd4c2c5)
+4. `Contributors` : List of current active contributors to the plugin's development.
+  ![image](https://github.com/user-attachments/assets/1e8ac577-2f30-4eef-8ac7-52e80e00c907)
 
 ## Upgrade Notice
 = 1.0.0 =
 Ensure you have tested the plugin on a staging site before deploying it to production.
 
 ## How to Contribute?
-Simply make a pull request, create your own branch for order, add the features you want, and push to origine. We promise to merge all useful contributions.
+Simply make a pull request, create your own branch for order, add the features you want, and push to origin. We promise to merge all useful contributions.
 
 ## How to Donate?
 You can donate via this link: https://buymeacoffee.com/askasjeremy  
