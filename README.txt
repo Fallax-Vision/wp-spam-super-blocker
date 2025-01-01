@@ -7,6 +7,7 @@ Requires PHP: 7.2
 Stable tag: 1.0.0 
 License: GPLv2 or later  
 License URI: https://www.gnu.org/licenses/gpl-2.0.html  
+Plugin's Website: https://mediafri.com/wp/plugins/spam_super_blocker/
 Donate link: https://mediafri.com/wp/plugins/spam_super_blocker/donate.php
 
 == Description ==
