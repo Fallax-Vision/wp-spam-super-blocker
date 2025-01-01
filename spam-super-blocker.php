@@ -3,7 +3,7 @@
  * Plugin Name: Spam Super Blocker
  * Plugin URI: https://mediafri.com/wp/plugins/spam_super_blocker
  * Description: A simple plugin that allows you to manage spam comments collaboratively with ease.
- * Version: 1.0.5
+ * Version: 1.0.0
  * Text Domain: spam-super-blocker
  * Author: Askas Jeremy
  * Author URI: https://askasjeremy.com
