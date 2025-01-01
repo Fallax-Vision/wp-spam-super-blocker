@@ -19,7 +19,7 @@ Spam Super Blocker (SSP) is a FREE and Open-Source plugin that empowers WordPres
 1. Allow you to bulk-mark comments as Spam.
 2. Automatically add spams' user's name, email, and URL to `Disallowed Comment Keys` under the "Discussion" section to be automatically blocked in the future.
 3. Specify `Allowed Keywords` that should never be blocked.
-4. Add all current pending comments to "**Spam**" with one click that also blocked the user's name, email, and URL with one click.
+4. Add all current pending comments to "**Spam**" with one click that also blocks the user's name, email, and URL with one click.
 5. Empty the "**Spam**" or "**Trash**" folder with one click.
 6. Auto-empty "**Spam**" and "**Trash**" folders based on customizable thresholds (number of comments).
 7. `Mark Spam & Block` as a bulk action in the comments page to bulk-block spam comments.
