@@ -66,6 +66,6 @@ Ensure you have tested the plugin on a staging site before deploying it to produ
 Simply make a pull request, create your own branch for order, add the features you want, and push to origin. We promise to merge all useful contributions.
 
 ## How to Donate?
-You can donate via this link: https://buymeacoffee.com/askasjeremy  
+You can donate via this link: https://flutterwave.com/pay/1duz3xfbvcfs  
 
 The received funds get distributed to all `active contributors`, and help us pay for a few personal needs to allow us continue improving the plugin.
